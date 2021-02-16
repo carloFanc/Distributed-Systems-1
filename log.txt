@@ -1,0 +1,132 @@
+Client 1 update request for replica 5 value: 1
+Client 2 update request for replica 6 value: 9
+Client 0 update request for replica 9 value: 8
+Id: 2	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 1	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 3	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 4	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 6	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 5	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 7	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 8	incompleteUpdate: <0>:<1>	incValue: 1
+Id: 9	incompleteUpdate: <0>:<1>	incValue: 1
+Replica 1 update <0>:<1> value:1
+Replica 2 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+	COORDINATOR CRASHED AFTER SOME WRITEOK
+	Election Started
+Election n. -2063620217 in 6	 winner is: -1	 length: 0	 precId: 6	 TTL: 0
+Election n. -2063620217 in 7	 winner is: 6	 length: 1	 precId: 7	 TTL: 1
+	Election Started
+	Election Started
+Election n. 1430071472 in 7	 winner is: -1	 length: 0	 precId: 7	 TTL: 0
+Election n. 1549003013 in 5	 winner is: -1	 length: 0	 precId: 5	 TTL: 0
+Election n. -2063620217 in 8	 winner is: 6	 length: 2	 precId: 8	 TTL: 2
+	Election Started
+Election n. -1734198797 in 8	 winner is: -1	 length: 0	 precId: 8	 TTL: 0
+Election n. -2063620217 in 9	 winner is: 6	 length: 3	 precId: 9	 TTL: 3
+Election n. 1549003013 in 6	 winner is: 5	 length: 1	 precId: 6	 TTL: 1
+Election n. 1430071472 in 8	 winner is: 7	 length: 1	 precId: 8	 TTL: 1
+	Election Started
+Election n. 2114074934 in 9	 winner is: -1	 length: 0	 precId: 9	 TTL: 0
+Election n. 1549003013 in 7	 winner is: 5	 length: 2	 precId: 7	 TTL: 2
+Election n. -1734198797 in 9	 winner is: 8	 length: 1	 precId: 9	 TTL: 1
+Election n. 1549003013 in 8	 winner is: 5	 length: 3	 precId: 8	 TTL: 3
+Election n. 1430071472 in 9	 winner is: 7	 length: 2	 precId: 9	 TTL: 2
+Election n. 1549003013 in 9	 winner is: 5	 length: 4	 precId: 9	 TTL: 4
+	Election Started
+Election n. -506646137 in 1	 winner is: -1	 length: 0	 precId: 1	 TTL: 0
+	Election Started
+	Election Started
+Election n. -1893314569 in 3	 winner is: -1	 length: 0	 precId: 3	 TTL: 0
+Election n. 1330931052 in 4	 winner is: -1	 length: 0	 precId: 4	 TTL: 0
+Election n. -506646137 in 2	 winner is: 1	 length: 1	 precId: 2	 TTL: 1
+Election n. -1893314569 in 4	 winner is: 3	 length: 1	 precId: 4	 TTL: 1
+Election n. 1330931052 in 5	 winner is: 4	 length: 1	 precId: 5	 TTL: 1
+	Election Started
+Election n. 1545746826 in 2	 winner is: -1	 length: 0	 precId: 2	 TTL: 0
+Election n. 1330931052 in 6	 winner is: 4	 length: 2	 precId: 6	 TTL: 2
+Election n. -506646137 in 3	 winner is: 1	 length: 2	 precId: 3	 TTL: 2
+Election n. 1545746826 in 3	 winner is: 2	 length: 1	 precId: 3	 TTL: 1
+Election n. 1330931052 in 7	 winner is: 4	 length: 3	 precId: 7	 TTL: 3
+Election n. -506646137 in 4	 winner is: 1	 length: 3	 precId: 4	 TTL: 3
+Election n. -1893314569 in 5	 winner is: 3	 length: 2	 precId: 5	 TTL: 2
+Election n. 1545746826 in 4	 winner is: 2	 length: 2	 precId: 4	 TTL: 2
+Election n. -506646137 in 5	 winner is: 1	 length: 4	 precId: 5	 TTL: 4
+Election n. -1893314569 in 6	 winner is: 3	 length: 3	 precId: 6	 TTL: 3
+Election n. 1330931052 in 8	 winner is: 4	 length: 4	 precId: 8	 TTL: 4
+Election n. -1893314569 in 7	 winner is: 3	 length: 4	 precId: 7	 TTL: 4
+Election n. 1330931052 in 9	 winner is: 4	 length: 5	 precId: 9	 TTL: 5
+Election n. 1545746826 in 5	 winner is: 2	 length: 3	 precId: 5	 TTL: 3
+Election n. -1893314569 in 8	 winner is: 3	 length: 5	 precId: 8	 TTL: 5
+Election n. -506646137 in 6	 winner is: 1	 length: 5	 precId: 6	 TTL: 5
+Election n. -1893314569 in 9	 winner is: 3	 length: 6	 precId: 9	 TTL: 6
+Election n. -506646137 in 7	 winner is: 1	 length: 6	 precId: 7	 TTL: 6
+Election n. 1545746826 in 6	 winner is: 2	 length: 4	 precId: 6	 TTL: 4
+Election n. -506646137 in 8	 winner is: 1	 length: 7	 precId: 8	 TTL: 7
+Election n. 1545746826 in 7	 winner is: 2	 length: 5	 precId: 7	 TTL: 5
+Election n. -506646137 in 9	 winner is: 1	 length: 8	 precId: 9	 TTL: 8
+Election n. 1545746826 in 8	 winner is: 2	 length: 6	 precId: 8	 TTL: 6
+Election n. 1545746826 in 9	 winner is: 2	 length: 7	 precId: 9	 TTL: 7
+Election n. 1545746826 in 9	 winner is: 2	 length: 8	 precId: 0	 TTL: 8
+Election n. 1545746826 in 1	 winner is: 2	 length: 9	 precId: 1	 TTL: 9
+Election n. 1545746826 in 2	 winner is: 1	 length: 10	 precId: 2	 TTL: 10
+Election n. 1545746826 in 3	 winner is: 1	 length: 11	 precId: 3	 TTL: 11
+Election n. 1545746826 in 4	 winner is: 1	 length: 12	 precId: 4	 TTL: 12
+Election n. 1545746826 in 5	 winner is: 1	 length: 13	 precId: 5	 TTL: 13
+Election n. 1545746826 in 6	 winner is: 1	 length: 14	 precId: 6	 TTL: 14
+Election n. 1545746826 in 7	 winner is: 1	 length: 15	 precId: 7	 TTL: 15
+Election n. 1545746826 in 8	 winner is: 1	 length: 16	 precId: 8	 TTL: 16
+Election n. 1545746826 in 9	 winner is: 1	 length: 17	 precId: 9	 TTL: 17
+Election n. 1545746826 in 9	 winner is: 1	 length: 18	 precId: 0	 TTL: 18
+Election n. 1545746826 in 1	 winner is: 1	 length: 19	 precId: 1	 TTL: 19
+Replica 1 is the new coordinator
+Replica 2 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+Replica 5 update <0>:<1> value:1
+Replica 6 update <0>:<1> value:1
+Replica 7 update <0>:<1> value:1
+Replica 8 update <0>:<1> value:1
+Replica 9 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 2 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+Replica 5 update <0>:<1> value:1
+Replica 6 update <0>:<1> value:1
+Replica 7 update <0>:<1> value:1
+Replica 8 update <0>:<1> value:1
+Replica 9 update <0>:<1> value:1
+Replica 2 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+Replica 5 update <0>:<1> value:1
+Replica 6 update <0>:<1> value:1
+Replica 7 update <0>:<1> value:1
+Replica 8 update <0>:<1> value:1
+Replica 9 update <0>:<1> value:1
+Replica 2 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+Replica 5 update <0>:<1> value:1
+Replica 6 update <0>:<1> value:1
+Replica 7 update <0>:<1> value:1
+Replica 8 update <0>:<1> value:1
+Replica 1 update <0>:<1> value:1
+Replica 9 update <0>:<1> value:1
+Replica 2 update <0>:<1> value:1
+Replica 4 update <0>:<1> value:1
+Replica 3 update <0>:<1> value:1
+Replica 5 update <0>:<1> value:1
+Replica 6 update <0>:<1> value:1
+Replica 7 update <0>:<1> value:1
+Replica 8 update <0>:<1> value:1
+Replica 1 update <0>:<1> value:1
+Replica 9 update <0>:<1> value:1
+Replica 1 update <0>:<1> value:1
+Replica 1 update <0>:<1> value:1
+Replica 1 update <0>:<1> value:1
+Client 0 update request for replica 0 value: 7
+Client 2 update request for replica 4 value: 0
+Client 1 update request for replica 4 value: 3
